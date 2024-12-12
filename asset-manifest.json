@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/indochinaqueenbookingsuccess/static/css/main.7e26ea8b.chunk.css",
-    "main.js": "/indochinaqueenbookingsuccess/static/js/main.b5d8c0a3.chunk.js",
-    "main.js.map": "/indochinaqueenbookingsuccess/static/js/main.b5d8c0a3.chunk.js.map",
+    "main.js": "/indochinaqueenbookingsuccess/static/js/main.0740ea52.chunk.js",
+    "main.js.map": "/indochinaqueenbookingsuccess/static/js/main.0740ea52.chunk.js.map",
     "runtime-main.js": "/indochinaqueenbookingsuccess/static/js/runtime-main.89843aa5.js",
     "runtime-main.js.map": "/indochinaqueenbookingsuccess/static/js/runtime-main.89843aa5.js.map",
     "static/css/2.50f6814a.chunk.css": "/indochinaqueenbookingsuccess/static/css/2.50f6814a.chunk.css",
@@ -27,6 +27,6 @@
     "static/css/2.50f6814a.chunk.css",
     "static/js/2.4148d21d.chunk.js",
     "static/css/main.7e26ea8b.chunk.css",
-    "static/js/main.b5d8c0a3.chunk.js"
+    "static/js/main.0740ea52.chunk.js"
   ]
 }
