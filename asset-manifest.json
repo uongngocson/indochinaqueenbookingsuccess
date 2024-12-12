@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/indochinaqueenbookingsuccess/static/css/main.7e26ea8b.chunk.css",
+    "main.js": "/indochinaqueenbookingsuccess/static/js/main.63dc725a.chunk.js",
+    "main.js.map": "/indochinaqueenbookingsuccess/static/js/main.63dc725a.chunk.js.map",
+    "runtime-main.js": "/indochinaqueenbookingsuccess/static/js/runtime-main.89843aa5.js",
+    "runtime-main.js.map": "/indochinaqueenbookingsuccess/static/js/runtime-main.89843aa5.js.map",
+    "static/css/2.50f6814a.chunk.css": "/indochinaqueenbookingsuccess/static/css/2.50f6814a.chunk.css",
+    "static/js/2.4148d21d.chunk.js": "/indochinaqueenbookingsuccess/static/js/2.4148d21d.chunk.js",
+    "static/js/2.4148d21d.chunk.js.map": "/indochinaqueenbookingsuccess/static/js/2.4148d21d.chunk.js.map",
+    "index.html": "/indochinaqueenbookingsuccess/index.html",
+    "static/css/2.50f6814a.chunk.css.map": "/indochinaqueenbookingsuccess/static/css/2.50f6814a.chunk.css.map",
+    "static/css/main.7e26ea8b.chunk.css.map": "/indochinaqueenbookingsuccess/static/css/main.7e26ea8b.chunk.css.map",
+    "static/js/2.4148d21d.chunk.js.LICENSE.txt": "/indochinaqueenbookingsuccess/static/js/2.4148d21d.chunk.js.LICENSE.txt",
+    "static/media/Qr_code.f82dcd8e.jpg": "/indochinaqueenbookingsuccess/static/media/Qr_code.f82dcd8e.jpg",
+    "static/media/Qrthanhtoan.scss": "/indochinaqueenbookingsuccess/static/media/banner1.09eb7c2f.jpg",
+    "static/media/Body.scss": "/indochinaqueenbookingsuccess/static/media/banner5.01885f62.jpg",
+    "static/media/Login.scss": "/indochinaqueenbookingsuccess/static/media/bannerlogin.a97778ba.jpeg",
+    "static/media/styles.scss": "/indochinaqueenbookingsuccess/static/media/fa-solid-900.d279d01b.svg",
+    "static/media/fanpage.399886f8.png": "/indochinaqueenbookingsuccess/static/media/fanpage.399886f8.png",
+    "static/media/menu1.03403004.jpg": "/indochinaqueenbookingsuccess/static/media/menu1.03403004.jpg",
+    "static/media/pass.614a41c6.svg": "/indochinaqueenbookingsuccess/static/media/pass.614a41c6.svg",
+    "static/media/user.402dd2bd.svg": "/indochinaqueenbookingsuccess/static/media/user.402dd2bd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89843aa5.js",
+    "static/css/2.50f6814a.chunk.css",
+    "static/js/2.4148d21d.chunk.js",
+    "static/css/main.7e26ea8b.chunk.css",
+    "static/js/main.63dc725a.chunk.js"
+  ]
+}
